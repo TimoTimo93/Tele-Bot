@@ -1,0 +1,45 @@
+{
+  "-4509993162": {
+    "group_name": "365ATH",
+    "chat_id": "-4509993162",
+    "title": "365ATH",
+    "allow_all_members": true,
+    "group_expiry": "2024-11-18 17:33:09 +0000",
+    "timezone": "Asia/Ho_Chi_Minh",
+    "country": "vietnam",
+    "auto_send_time": "00:00",
+    "monthly_report_day": 1,
+    "monthly_report_time": "00:00"
+  },
+  "-4522923750": {
+    "timezone": "Asia/Shanghai",
+    "country": "china",
+    "title": "menu",
+    "chat_id": "-4522923750",
+    "allow_all_members": true,
+    "group_expiry": "2024-11-18 17:33:09 +0000"
+  },
+  "-1002389961643": {
+    "timezone": "Asia/Ho_Chi_Minh",
+    "country": "vietnam",
+    "title": "menu",
+    "chat_id": "-1002389961643",
+    "allow_all_members": true,
+    "group_expiry": "2024-12-13 19:46:16 +0700"
+  },
+  "-4546543659": {
+    "timezone": "Asia/Shanghai",
+    "country": "china",
+    "title": "懒，Timo以及planA",
+    "chat_id": "-4546543659",
+    "allow_all_members": true,
+    "group_expiry": "2024-12-14 17:46:13 +0800"
+  },
+  "-1002283691674": {
+    "group_name": "机器人测试",
+    "chat_id": "-1002283691674",
+    "title": "机器人测试",
+    "allow_all_members": true,
+    "group_expiry": "2024-12-14 17:47:15 +0800"
+  }
+}
